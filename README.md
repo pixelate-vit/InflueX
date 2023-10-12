@@ -1,7 +1,6 @@
 # InflueX
 Influencer Marketing Platform - UI/UX Design Project
 
-Certainly! Here's a README file for your UI/UX design-based brand marketing platform:
 
 # Influencer Marketing Platform - UI/UX Design Project
 
