@@ -18,6 +18,7 @@ Influencer Marketing Platform - UI/UX Design Project
 ## Introduction
 
 Welcome to the Influencer Marketing Platform, a cutting-edge UI/UX design project tailored for brand marketing. Our platform provides a seamless experience for connecting brands with social influencers, helping you market your products to the right audience effectively.
+Using link below(figma link) you can find access to the design present, and can send your designs by pull requests.
 
 ## Features
 
