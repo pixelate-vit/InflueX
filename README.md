@@ -7,6 +7,7 @@ Influencer Marketing Platform - UI/UX Design Project
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Instructions](#Instuctions)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
